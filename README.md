@@ -45,5 +45,5 @@ pip install -r requirements.txt
 ## 🚀 Run Your Simulation!  
 
 ```bash
-python simulation.py
+python Euro_million.py
 ```  

@@ -1,7 +1,3 @@
-Voici votre fichier **README** en anglais, prêt à être copié et collé :  
-
----
-
 # 🎰 EuroMillions Simulation  
 
 This project simulates EuroMillions draws to analyze potential long-term winnings. It allows you to:  
@@ -51,7 +47,3 @@ pip install -r requirements.txt
 ```bash
 python simulation.py
 ```  
-
----  
-
-This README is fully formatted for GitHub and clearly explains your project in English. 🚀
